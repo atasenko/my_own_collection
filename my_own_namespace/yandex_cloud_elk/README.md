@@ -7,7 +7,7 @@ Role my_file_module [README](roles/my_file_module/README.md)
 
 Download [collection](../../my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)  
 Run  
-ansible-galaxy collection install <archivename>.tar.gz
+ansible-galaxy collection install <archivename>.tar.gz  
 Playbook example  
 
     - name: Test file module
